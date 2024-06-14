@@ -23,7 +23,3 @@ Things you may want to cover:
 
 * ...
 # repo_DT_Riya
-
-![Screenshot from 2024-06-14 15-18-40](https://github.com/riyareddyj/repo_DT_Riya/assets/172379534/28142b3d-5a16-4de8-83e1-9e34a14d13d2)
-
-
