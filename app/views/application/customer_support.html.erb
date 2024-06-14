@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<link rel = "stylesheet" href = "app/assets/stylesheets/application.css">
+</head>
+
+<body>
+
+<center> 
+<form>
+<label for="query">Enter your Query:</label>
+<input type="text" id="query" name="query">
+<br><br>
+<label for="phno">Enter your Mobile Number:</label>
+<input type="text" id="phno" name="phno">
+<br><br>
+<button id = "myButton"> submit </button> 
+</form>
+</center>
+
+<script>
+const button = document.getElementById('myButton');
+  button.addEventListener('click', function() {
+    alert('You will get a call shortly');
+  });
+</script>
+
+</body>
+</html>
